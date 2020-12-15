@@ -58,9 +58,12 @@
 					}
 				},
 				"url": {
-					"raw": "yiinews/cat",
+					"raw": "http://virgo.uzbekapps.com/cat",
+					"protocol": "http",
 					"host": [
-						"yiinews"
+						"virgo",
+						"uzbekapps",
+						"com"
 					],
 					"path": [
 						"cat"
@@ -90,9 +93,12 @@
 					}
 				},
 				"url": {
-					"raw": "yiinews/news/6",
+					"raw": "http://virgo.uzbekapps.com/news/6",
+					"protocol": "http",
 					"host": [
-						"yiinews"
+						"virgo",
+						"uzbekapps",
+						"com"
 					],
 					"path": [
 						"news",
@@ -123,9 +129,12 @@
 					}
 				},
 				"url": {
-					"raw": "yiinews/cat/1",
+					"raw": "http://virgo.uzbekapps.com/cat/1",
+					"protocol": "http",
 					"host": [
-						"yiinews"
+						"virgo",
+						"uzbekapps",
+						"com"
 					],
 					"path": [
 						"cat",
@@ -156,9 +165,12 @@
 					}
 				},
 				"url": {
-					"raw": "yiinews/news/5",
+					"raw": "http://virgo.uzbekapps.com/news/5",
+					"protocol": "http",
 					"host": [
-						"yiinews"
+						"virgo",
+						"uzbekapps",
+						"com"
 					],
 					"path": [
 						"news",
@@ -189,9 +201,12 @@
 					}
 				},
 				"url": {
-					"raw": "yiinews/cat/3",
+					"raw": "http://virgo.uzbekapps.com/cat/3",
+					"protocol": "http",
 					"host": [
-						"yiinews"
+						"virgo",
+						"uzbekapps",
+						"com"
 					],
 					"path": [
 						"cat",
@@ -213,9 +228,11 @@
 					}
 				],
 				"url": {
-					"raw": "yiinews/news?category=1",
+					"raw": "virgo.uzbekapps.com/news",
 					"host": [
-						"yiinews"
+						"virgo",
+						"uzbekapps",
+						"com"
 					],
 					"path": [
 						"news"
@@ -223,7 +240,8 @@
 					"query": [
 						{
 							"key": "category",
-							"value": "1"
+							"value": "1",
+							"disabled": true
 						}
 					]
 				}
@@ -242,9 +260,12 @@
 					}
 				],
 				"url": {
-					"raw": "yiinews/cat/1",
+					"raw": "http://virgo.uzbekapps.com/cat/1",
+					"protocol": "http",
 					"host": [
-						"yiinews"
+						"virgo",
+						"uzbekapps",
+						"com"
 					],
 					"path": [
 						"cat",
